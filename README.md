@@ -18,5 +18,4 @@ Technologies Used:
       axios: A promise-based HTTP client for making asynchronous requests.
 
 
-My site is live at https://deepan-v.github.io/Crud-Operation-with-Mock-Api/
 
