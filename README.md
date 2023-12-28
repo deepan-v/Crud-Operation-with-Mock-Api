@@ -16,3 +16,7 @@ Technologies Used:
       HTML/CSS/JavaScript: Basic web technologies for building the frontend.
       React: A JavaScript library for building user interfaces.
       axios: A promise-based HTTP client for making asynchronous requests.
+
+
+My site is live at https://deepan-v.github.io/Crud-Operation-with-Mock-Api/
+
